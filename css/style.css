@@ -1,0 +1,440 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    width: 1440px;
+    background: #FEFCF7;
+    margin: 0 auto;
+}
+.container{
+    margin: 0 auto;
+    width: 1280px;
+    margin: 0 auto;
+}
+.head-link1{
+    height: 15px;
+left: 0%;
+right: 87.99%;
+top: calc(50% - 15px/2);
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.923077px;
+text-transform: uppercase;
+
+color: #83888F;
+list-style: none;
+text-decoration: none;
+
+}
+.head-link2{
+    height: 15px;
+left: 23.67%;
+right: 54.42%;
+top: calc(50% - 15px/2);
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+list-style: none;
+text-decoration: none;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.923077px;
+text-transform: uppercase;
+
+color: #83888F;
+    
+}
+.head-link3{
+    height: 15px;
+left: 56.89%;
+right: 0.35%;
+top: calc(50% - 15px/2);
+list-style: none;
+text-decoration: none;
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.923077px;
+text-transform: uppercase;
+
+color: #83888F;
+
+}
+.logotip{
+    width: 50%;
+height: 26px;
+}
+nav{
+    display: flex;
+    width:50%;
+}
+.head-wrapper{
+    display: flex;
+    height: 113px;
+   
+   
+}
+.headr_ul{
+    display: flex;
+    margin-left: 250px;
+    
+}
+li{
+    margin-left: 20px;
+   }
+.sec-1-main-1{
+    
+    
+    display: inline-block;
+
+}
+.sec-1-main{
+    
+   
+    height: 600px;
+    background-color: rgb(185, 174, 174);
+   
+}
+.sec-1-main-1{
+    margin-left: 100px;
+}
+.sec-1{
+   margin: 0 auto;
+}
+.button-1{
+   
+    background: #0E8784;
+    border-radius: 6px;
+    align-items: center;
+    justify-content: left;
+    margin-top: 50px;
+  
+}
+.sec-1-h{ 
+    margin-top: 50px;
+    height: 145px;
+left: 0%;
+right: 0%;
+top: calc(50% - 145px/2 - 55px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 72px;
+/* or 100% */
+
+
+color: #FEFCF7;
+
+}
+.pp{
+    margin-top: 50PX;
+    left: 0%;
+right: 9.74%;
+top: 69.41%;
+bottom: 0%;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #FEFCF7;
+
+mix-blend-mode: normal;
+opacity: 0.8;
+}
+main{
+    width: 1440px;
+    margin: 0 auto;
+}
+.sec-2{
+    margin: 0 auto;
+    display: flex;
+    margin-top: 110px;
+    z-index: 1;
+
+}
+.sec-2-box{
+    display: flex;
+    background-size: 1111px 196px;
+    }
+
+.sec-2_1{
+    display: inline-block;
+    margin-left: 30px;
+    text-align: center;
+    
+}
+.image{
+    width: 255px;
+height: 193px;
+margin-top: 20px;
+}
+.sec-2-h{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sec-2-p{
+   margin-top: 20px;
+   margin-bottom: 90px;
+}
+.sec-3{
+    border: 1px solid;background-color: rgb(87, 80, 110);
+    margin: 0 auto;
+    height: 600px;
+    position: absolute;
+    z-index: -1;
+    margin-left: 80px;
+}
+
+.sec-3-h{
+    height: 48px;
+left: 19.54%;
+text-align: center;
+height: 48px;
+left: 19.54%;
+right: 19.54%;
+top: calc(50% - 48px/2 - 56px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+color: #FEFCF7;
+
+
+}
+.sec-3-p{
+bottom: 0%;
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #FEFCF7;
+mix-blend-mode: normal;
+opacity: 0.8;
+}
+.bakround{
+    background-image: url(../image/bekraund\ img.png);
+    Width:1111px;
+    Height:196px;
+    margin: 0 auto;
+    margin-bottom:20px;
+    position: absolute;
+    margin-left: 150px;
+    z-index: -1;
+  
+    
+}
+.sec-4-table{
+    
+    margin: 0 auto;
+    margin-right: 85px;
+    
+}
+.box1{
+   
+width: 350px;
+height: 382px;
+background: #0E8784;
+border-radius: 8px;
+text-align: center;
+align-items: center;
+justify-content: center;
+margin-right: 10px;
+margin-top: 300px;
+margin-left: 10px;
+}
+.sec-4-ul{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  margin-left: 70px;
+   
+}
+.ces-4-img{
+    width: 72px;
+    height: 72px;
+    margin-top:70px;
+}
+.sec-4-p{
+    margin-top: 50px;
+}
+.sec-4-h{
+    margin-top: 50px;
+}
+.sec-5{
+    margin: 0 auto;
+
+}
+.sec-5-h{
+    height: 32px;
+left: 0%;
+right: 75.6%;
+top: calc(50% - 32px/2 - 266.5px);
+margin-left: 80px;
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+color: #83888F;
+
+}
+
+.oval{
+   
+   
+  
+    bottom: 74.69%;
+    display: flex;
+    background: #FEFCF7;
+    margin-bottom:  20px;
+  
+    
+}
+.number{
+    height: 72px;
+left: 0%;
+right: 68.42%;
+top: calc(50% - 72px/2 - 141.5px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 72px;
+/* identical to box height, or 100% */
+
+
+color: #FDD6BA;
+
+
+}
+.sec-5-h2{
+    height: 73px;
+left: 0%;
+right: 10.53%;
+top: calc(50% - 73px/2 - 31px);
+
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 36px;
+/* or 112% */
+
+
+color: #333D4B;
+
+}
+.sec-5-p{
+    top: 63.38%;
+bottom: 0%;
+text-align: left;
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #333D4B;
+
+}
+.sec-5-ull{
+    display: flex;
+    
+}
+.sec-5-li{
+   
+    margin-left: 80px;
+}
+.sec-5-button{
+    background: #0E8784;
+    border-radius: 6px;
+}
+.button-2{
+    background: #0E8784;
+    border-radius: 6px;
+    align-items: center;
+    justify-content: left;
+    margin-left: 78px;
+    margin-top: 50px;
+
+}
+footer{
+    display: flex;
+    width: 1280px;
+height: 120px;
+margin: 0 auto;
+
+background: #2C343E;
+}
+.footer-li{
+    height: 15px;
+left: 0%;
+right: 87.99%;
+top: calc(50% - 15px/2);
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height, or 125% */
+
+letter-spacing: 0.923077px;
+text-transform: uppercase;
+
+color: #83888F;
+
+
+}
+.footer-aa{
+display: flex;
+margin-left: 50px;
+}
+.foooter-img{
+    display: flex;
+    margin-left: 200px;
+}
+.foter-main{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin: 0 auto;
+    margin-left: 100px;
+   
+    margin-top: 60px;
+}
